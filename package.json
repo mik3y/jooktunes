@@ -16,7 +16,7 @@
     "bootstrap": "^4.4.1",
     "cdgraphics": "^2.0.1",
     "dexie": "^2.0.4",
-    "electron": "^8.2.3",
+    "electron": "^9.4.0",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
